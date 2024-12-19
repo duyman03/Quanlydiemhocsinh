@@ -1,0 +1,24 @@
+
+#info fieldset{
+	border: 1px solid #0099FF;
+	margin: 5px;
+	
+}
+#info legend{
+	font-weight: bold;
+	color: #0099FF;
+	
+	
+}
+#info label{
+	float: left;
+	width: 120px;
+	padding-left: 25px;
+	font-weight: bold;
+
+}
+#info input select{
+	border: 1px solid #0099FF;
+	margin-bottom: 5px;
+	text-align: center;
+}
